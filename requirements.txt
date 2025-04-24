@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langgraph
+openai
+faiss-cpu
+pydantic
+python-dotenv
+uvicorn
+fastapi
+tiktoken
+bs4
+requests
+boto3
+streamlit
