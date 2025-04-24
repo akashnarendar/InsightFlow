@@ -102,3 +102,8 @@ Pull requests are welcome! Feel free to fork this repo and propose improvements.
 For questions or collaboration:
 - [Narendar Punithan](akashnarendar2013@gmail.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/narendar-punithan-758658126/)
+
+### 🧠 InsightFlow – LLM-Powered Research Assistant
+A modular LangGraph app with autonomous planning, summarization, and PDF-ready reporting.
+
+👉 [Try it live](https://insightflow-fn6prnppnvhfdnvcn2fh54.streamlit.app)
